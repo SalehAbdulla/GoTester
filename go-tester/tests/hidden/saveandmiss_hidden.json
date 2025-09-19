@@ -1,0 +1,12 @@
+[
+  {
+    "arg": "Mahmood",
+    "num": 2,
+    "want": "Mmo"
+  },
+  {
+    "arg": "piscine",
+    "num": 3,
+    "want": "pie"
+  }
+]

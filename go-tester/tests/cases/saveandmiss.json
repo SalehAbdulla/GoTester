@@ -1,0 +1,17 @@
+[
+  {
+    "arg": "abcdef",
+    "num": 2,
+    "want": "ace"
+  },
+  {
+    "arg": "zzz",
+    "num": 1,
+    "want": "zzz"
+  },
+  {
+    "arg": "",
+    "num": 3,
+    "want": ""
+  }
+]
